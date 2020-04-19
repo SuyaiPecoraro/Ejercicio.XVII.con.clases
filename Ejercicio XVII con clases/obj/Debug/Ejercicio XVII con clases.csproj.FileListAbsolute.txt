@@ -1,0 +1,6 @@
+C:\Users\AlexandraSuyaiPecora\Desktop\Ejercicio XVII con clases\Ejercicio XVII con clases\bin\Debug\Ejercicio XVII con clases.exe.config
+C:\Users\AlexandraSuyaiPecora\Desktop\Ejercicio XVII con clases\Ejercicio XVII con clases\bin\Debug\Ejercicio XVII con clases.exe
+C:\Users\AlexandraSuyaiPecora\Desktop\Ejercicio XVII con clases\Ejercicio XVII con clases\bin\Debug\Ejercicio XVII con clases.pdb
+C:\Users\AlexandraSuyaiPecora\Desktop\Ejercicio XVII con clases\Ejercicio XVII con clases\obj\Debug\Ejercicio XVII con clases.csprojAssemblyReference.cache
+C:\Users\AlexandraSuyaiPecora\Desktop\Ejercicio XVII con clases\Ejercicio XVII con clases\obj\Debug\Ejercicio XVII con clases.pdb
+C:\Users\AlexandraSuyaiPecora\Desktop\Ejercicio XVII con clases\Ejercicio XVII con clases\obj\Debug\Ejercicio XVII con clases.exe
